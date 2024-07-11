@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    background-color: rgb(3, 3, 83);
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.containerpp {
+    position: relative;
+    background-color: rgb(3, 3, 83);
+    width:80%;
+    height: 100%;
+    flex-wrap: nowrap;
+}
+    
+h1 {
+    color: orange;
+    font-size: 8vh;
+}
+h2 {
+    color: orange;
+}
+
+.containerpp span {
+    background-color: orange;
+}
+.containerpp img {
+    height: 300px;
+    width: 300px;
+}
+.containerpp p { 
+    color: white;
+}
+.containera {
+    position: relative;
+    background-color: rgb(3, 3, 83);
+    width:80%;
+    height: 100%;
+    flex-wrap: nowrap;
+}
+.containera p {
+    color: white;
+
+}
+.containera span {
+    background-color: orange;
+}
+.containerm {
+    position: relative;
+    background-color: rgb(3, 3, 83);
+    width:80%;
+    height: 100%;
+    flex-wrap: nowrap;
+    text-align: center;
+}
+.containerm h2 {
+    color: white;
+    font-size: 3vh;
+}
+.containerm span{
+    color: orange;
+}
+.containerc1 {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    flex-wrap: nowrap;
+    padding: 30px 30px;
+}
+.containerc2 {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    flex-wrap: nowrap;
+    padding: 30px 30px;
+}
+.containerc3 {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    flex-wrap: nowrap;
+    padding: 30px 30px;
+}
+
+
+.containerc1 img {
+    width: 100px;
+    height: 100px;
+}
+.containerc2 img {
+    width: 100px;
+    height: 100px;
+}
+.containerc3 img {
+    width: 100px;
+    height: 100px;
+}
+.containerco {
+    height: 100%;
+    width: 80%;
+    position: relative;
+    background-color:bisque;
+    flex-wrap: nowrap;
+    text-align: center;
+    padding: 30px;
+}
+.containert {
+    height: 100%;
+    width: 80%;
+    position: relative;
+    background-color: rgb(3, 3, 83);
+    flex-wrap: nowrap;
+    text-align: center;
+    padding: 30px;
+}
+
